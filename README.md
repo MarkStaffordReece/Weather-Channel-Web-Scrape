@@ -3,7 +3,7 @@ Scrape for the daily temperatue every minute and send to csv file
 
 ##Objective: 
 
-I want to see how much the temperature changes in Richmond, VA throughtout the day. I want to compile the temperature every minute and compile this in a CSV file for further analysis. 
+I want to see how much the temperature changes in Richmond, VA throughtout the day. I want to scrape the temperature every minute and compile this in a CSV file for further analysis. 
 
 Goal:
 
